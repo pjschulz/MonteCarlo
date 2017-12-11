@@ -2,7 +2,7 @@
 -Full Name: Patrick Schulz
 -Solves Problem 2 - Parallel Monte Carlo method for determining value of Pi
 -No known issues
--Tested on Windows 10
+-Tested on Windows 10, program name is called "MonteCarlo"
 -You can change the variable numberOfTosses to increase or decrease pi estimation
 
 Expected Results:
